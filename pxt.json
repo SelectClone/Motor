@@ -22,4 +22,14 @@
         "microbit"
     ],
     "preferredEditor": "blocksprj"
+    {
+  "name": "microbit-motor-driver",
+  "version": "0.0.1",
+  "description": "Driver simples para controlar motores em placa de expansão micro:bit",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts"
+  ]
 }
